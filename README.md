@@ -1,4 +1,3 @@
-# nextstrain-narratives-demo
-Demonstration of how to create public Nextstrain narratives
+# RABIES VIRUS NANOPORE WHOLE GENOME SEQUENCING FROM RABIES RAPID DIAGNOSTIC KIT AND FROM DIRECT BRAIN SAMPLES
 
-View this narrative at https://nextstrain.org/community/narratives/nextstrain/nextstrain-narratives-demo@main/SARS-CoV-2-in-Africa.
+Repository created by Nicole Phoebe G. Valenzuela
